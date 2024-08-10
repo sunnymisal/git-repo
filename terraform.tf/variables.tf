@@ -30,5 +30,5 @@ variable "value" {
 
 variable "count" {
   type = string
-  description = "count calling"
+  description = "number calling"
 }
