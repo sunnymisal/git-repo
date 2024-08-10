@@ -28,7 +28,3 @@ variable "value" {
   description = "output block calling"
 }
 
-variable "count" {
-  type = string
-  description = "count calling"
-}
