@@ -13,6 +13,11 @@ variable "instance_type" {
   description = "server size calling"
 }
 
+variable "count" {
+  type = string
+  description = "count calling"
+}
+
 variable "key_name" {
   type = string
   description = "key calling"
@@ -27,4 +32,3 @@ variable "value" {
   type = string
   description = "output block calling"
 }
-
