@@ -11,4 +11,4 @@ tags = {
     owner = "suresh"    
   }
 
-value = "Here we are trying to create machine from file destrucutre1"
+value = "Here we are trying to create machine from file destrucutre"
