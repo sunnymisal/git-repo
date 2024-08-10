@@ -1,6 +1,6 @@
 region = "ap-south-1"
 
-ami = "ami-0ad21ae1d0696ad58"
+ami = "ami-0a4408457f9a03be3"
 
 instance_type = "t2.micro" 
 
@@ -12,6 +12,3 @@ tags = {
   }
 
 value = "Here we are trying to create machine from file destrucutre"
-
-
-
